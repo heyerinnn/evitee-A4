@@ -1,0 +1,20 @@
+{ 
+    "dogs":[
+            {
+                "breed": "Bernese Mountain Dog",
+                "color": "Black tricolor",
+                "coat": "Thick, moderately long double coat.",
+                "temperament": "Peaceful and sociable with other animals.",
+                "pic": "assets/images/berneseMountain.jpg"
+            },
+            {
+                "breed": "Siberian Husky",
+                "color": "Black and white, grey and white, pure white, shades of copper, agouti coat",
+                "coat": "Double coat",
+                "temperament": "Friendly and gentle, but also alert and outgoing.",
+                "pic": "assets/images/siberianHusky.jpg"
+            }
+    
+    ]
+        
+}

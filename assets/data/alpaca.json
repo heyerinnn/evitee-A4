@@ -1,0 +1,20 @@
+{ 
+    "alpacas":[
+            {
+                "breed": "Suri",
+                "color": "22 natural shades from black to silber and rose gray and white, from mahogany brown to light fawn",
+                "coat": "Long silky fiber, looks like dreadlocks",
+                "temperament": "Sociable and docile. Can be shy and timid when left alone",
+                "pic": "assets/images/suriAlpacas.jpg"
+            },
+            {
+                "breed": "Huacaya",
+                "color": "White, beige, light to dark farn, light to dark brown, black, shades of silver and rose grey",
+                "coat": "Short soft crimpy fiber, has a 'fluffy' appearance",
+                "temperament": "Sociable and docile. Can be shy and timid when left alone",
+                "pic": "assets/images/huacayaAlpaca.jpg"
+            }
+    
+    ]
+        
+}
